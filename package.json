@@ -1,6 +1,6 @@
 {
   "name": "mcp-infoblox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Infoblox NIOS WAPI — DNS, DHCP, and IPAM management",
   "type": "module",
   "bin": {
